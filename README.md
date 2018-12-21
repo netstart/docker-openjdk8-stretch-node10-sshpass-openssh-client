@@ -1,5 +1,6 @@
 Docker image with
 
+- Linux version 4.15.0-42-generic (Ubuntu 5.4.0-6ubuntu1~16.04.10)
 - Java 8 8u181-jdk-stretch build 1.8.0_181-8u181-b13-2~deb9u1-b13
 - sshpass 1.0.6
 - openssh-client OpenSSH_7.4p1 Debian-10+deb9u4, OpenSSL 1.0.2l  25 May 2017
